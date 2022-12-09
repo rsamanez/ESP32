@@ -10,3 +10,4 @@ To connect a client use a Telnet conection to port 80
 $> telnet [esp32-server-ip] 80
 ```
 This sample implements a ECHO service
+![esp32-image](esp32-wroom.jpeg)
